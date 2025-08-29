@@ -53,7 +53,7 @@ export default function Contact({isDarkMode}) {
                 transition={{  delay: 0.7, duration:0.5 }}
             
              className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-                I'd love to hear frm you. If you have any questions, comments, or feedback, please ue the form below. 
+          If you have any questions, comments, or feedback, please ue the form below. 
             </motion.p>
 
             <motion.form
